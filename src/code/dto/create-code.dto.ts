@@ -1,1 +1,3 @@
-export class CreateCodeDto {}
+export class CodeDto {
+    code:string;
+}
